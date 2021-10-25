@@ -7,7 +7,7 @@ My online-alias is **janeberru** and my real name is ...well @nicholasyoannou. I
 
 [![Repos Badge](https://badges.pufler.dev/repos/nicholasyoannou)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/nicholasyoannou)
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/nicholasyoannou/nicholasyoannou/blob/main/github-metrics.svg)
 
 
 - 👋 Hi, I’m @nicholasyoannou
