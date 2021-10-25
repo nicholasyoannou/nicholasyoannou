@@ -1,5 +1,5 @@
 # Welcome to my Github Profile! 👋
-My online-alias is **janeberru** and my real name is ...well @nicholasyoannou. I'm mainly a Python developer, but I'm also learning full-stack development as well. I enjoy coding - you could call it a passion.
+My online-alias is **janeberru** and my real name is **Nicholas**. I'm mainly a Python developer, but I'm also learning full-stack development as well. I enjoy coding - you could call it a passion.
 
 [Website](https://janeber.ru) - [Email](janeberru@janeber.ru)
 
