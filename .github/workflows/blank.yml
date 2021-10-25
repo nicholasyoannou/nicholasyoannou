@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.MY_GITHUB_KEY }}
 
           # Options
-          user: Hopefuls
+          user: nicholasyoannou
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
