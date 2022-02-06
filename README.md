@@ -8,4 +8,5 @@ My name is **Nicholas** and my online-alias is **janeberru**. I'm mainly a Pytho
 
 [![Repos Badge](https://badges.pufler.dev/repos/nicholasyoannou)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/nicholasyoannou)
 
-![Metrics](https://github.com/nicholasyoannou/nicholasyoannou/blob/main/github-metrics.svg)
+<!-- ![Metrics](https://github.com/nicholasyoannou/nicholasyoannou/blob/main/github-metrics.svg)
+ -->
